@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Boot Switch
+Comment=Manage Windows and Linux UEFI boot entries
+Exec=__BOOT_SWITCH_PATH__/run.sh
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true
