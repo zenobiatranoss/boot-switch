@@ -4,6 +4,8 @@ boot switch is a simple linux tool for switching between linux and windows throu
 
 it lets you make windows the default boot option and hide the linux boot entry without deleting your linux installation.
 
+![](o.png)
+
 ## features
 
 - detect windows and linux boot entries
